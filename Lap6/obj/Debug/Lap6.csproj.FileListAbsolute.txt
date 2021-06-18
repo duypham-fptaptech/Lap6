@@ -1,0 +1,6 @@
+C:\Users\hp\RiderProjects\Lap6\Lap6\obj\Debug\Lap6.csprojAssemblyReference.cache
+C:\Users\hp\RiderProjects\Lap6\Lap6\obj\Debug\Lap6.csproj.CoreCompileInputs.cache
+C:\Users\hp\RiderProjects\Lap6\Lap6\bin\Debug\Lap6.exe
+C:\Users\hp\RiderProjects\Lap6\Lap6\bin\Debug\Lap6.pdb
+C:\Users\hp\RiderProjects\Lap6\Lap6\obj\Debug\Lap6.exe
+C:\Users\hp\RiderProjects\Lap6\Lap6\obj\Debug\Lap6.pdb
